@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.29)  5 DEC 2023 23:40
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.29)  7 DEC 2023 12:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1223,63 +1223,9 @@ LaTeX Info: Redefining \nameref on input line 15.
 \@outlinefile=\write5
 \openout5 = `English-essay.out'.
 
- (./1.Introduction/introduction.tex
+ [1
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 3.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 3.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 3.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 3.
-
-) (./2.Mathematical_model/mathematical_model.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 3.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 3.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 3.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 3.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 4.
-
-) (./3.Discussion/discussion.tex
+] (./1.Introduction/introduction.tex) (./2.Mathematical_model/mathematical_model.tex [2]) (./3.Discussion/discussion.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\leavevmode@ifvmode' on input line 2.
@@ -1353,22 +1299,17 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
 (hyperref)                removed on input line 5.
 
-) [1
-
-]
-
-LaTeX Warning: Empty `thebibliography' environment on input line 53.
-
-[2] (./Example/Example.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 4.
+) [3]
+Underfull \hbox (badness 1466) in paragraph at lines 52--53
+\TU/Arial(0)/m/n/12.05 Deep learning for cellular image analysis. Nature Methods, 16(12), 1233-1246.
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 4.
+Underfull \hbox (badness 2012) in paragraph at lines 58--59
+[]\TU/Arial(0)/m/n/12.05 Nash, W., Drummond, T. & Birbilis, N. (2018). A review of deep learning in
+ []
 
+[4] (./Example/Example.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\leavevmode@ifvmode' on input line 4.
@@ -1378,7 +1319,16 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
 (hyperref)                removed on input line 4.
 
-[3]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.00876pt
+(hyperref)                removed on input line 4.
+
+[5]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\leavevmode@ifvmode' on input line 21.
@@ -1528,7 +1478,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
 (hyperref)                removed on input line 51.
 
-[4]
+[6]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\leavevmode@ifvmode' on input line 82.
@@ -1648,7 +1598,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 File: Example/figures/result.png Graphic file (type bmp)
 <Example/figures/result.png>
-[5] [6]
+[7] [8]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\leavevmode@ifvmode' on input line 112.
@@ -1667,26 +1617,17 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00876pt
 (hyperref)                removed on input line 112.
 
-) [7] (./English-essay.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `English-essay.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `English-essay.out':
-(rerunfilecheck)             Before: DC023835B67BCA2CB743315BE278E76E;3325
-(rerunfilecheck)             After:  F295A21DAA843E7091D2AFCDA1F33BAA;3247.
+) [9] (./English-essay.aux)
+Package rerunfilecheck Info: File `English-essay.out' has not changed.
+(rerunfilecheck)             Checksum: 4F3307E27D078EF57F47ECAA09CE13A8;2788.
  ) 
 Here is how much of TeX's memory you used:
- 34429 strings out of 478126
- 709923 string characters out of 5853226
- 1001244 words of memory out of 5000000
- 54358 multiletter control sequences out of 15000+600000
+ 34428 strings out of 478126
+ 709877 string characters out of 5853226
+ 1006922 words of memory out of 5000000
+ 54357 multiletter control sequences out of 15000+600000
  507279 words of font info for 189 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 113i,11n,116p,502b,683s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,12n,116p,792b,683s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on English-essay.pdf (7 pages).
+Output written on English-essay.pdf (9 pages).
