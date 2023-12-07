@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.29)  7 DEC 2023 12:47
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.29)  7 DEC 2023 23:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -833,6 +833,198 @@ LaTeX Font Info:    Trying to load font information for T1+txr on input line 112
 File: t1txr.fd 2000/12/15 v3.1
 )) (c:/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
+) (c:/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks32
+\pgfutil@tempdima=\dimen293
+\pgfutil@tempdimb=\dimen294
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box71
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/texlive/2022/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks35
+))
+\pgf@x=\dimen295
+\pgf@y=\dimen296
+\pgf@xa=\dimen297
+\pgf@ya=\dimen298
+\pgf@xb=\dimen299
+\pgf@yb=\dimen300
+\pgf@xc=\dimen301
+\pgf@yc=\dimen302
+\pgf@xd=\dimen303
+\pgf@yd=\dimen304
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count368
+\c@pgf@countb=\count369
+\c@pgf@countc=\count370
+\c@pgf@countd=\count371
+\t@pgf@toka=\toks36
+\t@pgf@tokb=\toks37
+\t@pgf@tokc=\toks38
+\pgf@sys@id@count=\count372
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-xetex.def
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)
+\pgfsys@objnum=\count373
+))) (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count374
+\pgfsyssoftpath@bigbuffer@items=\count375
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen305
+\pgfmath@count=\count376
+\pgfmath@box=\box72
+\pgfmath@toks=\toks39
+\pgfmath@stack@operand=\toks40
+\pgfmath@stack@operation=\toks41
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count377
+)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen306
+\pgf@picmaxx=\dimen307
+\pgf@picminy=\dimen308
+\pgf@picmaxy=\dimen309
+\pgf@pathminx=\dimen310
+\pgf@pathmaxx=\dimen311
+\pgf@pathminy=\dimen312
+\pgf@pathmaxy=\dimen313
+\pgf@xx=\dimen314
+\pgf@xy=\dimen315
+\pgf@yx=\dimen316
+\pgf@yy=\dimen317
+\pgf@zx=\dimen318
+\pgf@zy=\dimen319
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen320
+\pgf@path@lasty=\dimen321
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen322
+\pgf@shorten@start@additional=\dimen323
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box73
+\pgf@hbox=\box74
+\pgf@layerbox@main=\box75
+\pgf@picture@serial@count=\count378
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen324
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen325
+\pgf@pt@y=\dimen326
+\pgf@pt@temp=\dimen327
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen328
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen329
+\pgf@sys@shading@range@num=\count379
+\pgf@shadingcount=\count380
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box76
+)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box77
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen330
+\pgf@nodesepend=\dimen331
+) (c:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (c:/texlive/2022/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen332
+\pgffor@skip=\dimen333
+\pgffor@stack=\toks42
+\pgffor@toks=\toks43
+)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count381
+\pgfplotmarksize=\dimen334
+)
+\tikz@lastx=\dimen335
+\tikz@lasty=\dimen336
+\tikz@lastxsaved=\dimen337
+\tikz@lastysaved=\dimen338
+\tikz@lastmovetox=\dimen339
+\tikz@lastmovetoy=\dimen340
+\tikzleveldistance=\dimen341
+\tikzsiblingdistance=\dimen342
+\tikz@figbox=\box78
+\tikz@figbox@bg=\box79
+\tikz@tempbox=\box80
+\tikz@tempbox@bg=\box81
+\tikztreelevel=\count382
+\tikznumberofchildren=\count383
+\tikznumberofcurrentchild=\count384
+\tikz@fig@count=\count385
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count386
+\pgfmatrixcurrentcolumn=\count387
+\pgf@matrix@numberofcolumns=\count388
+)
+\tikz@expandcount=\count389
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen343
+\pgfarrowlength=\dimen344
+\pgfarrowwidth=\dimen345
+\pgfarrowlinewidth=\dimen346
 ) (c:/texlive/2022/texmf-dist/tex/latex/mdframed/mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
  (c:/texlive/2022/texmf-dist/tex/latex/zref/zref-abspage.sty
@@ -843,13 +1035,13 @@ Package zref Info: New property list: main on input line 764.
 Package zref Info: New property: default on input line 765.
 Package zref Info: New property: page on input line 766.
 )
-\c@abspage=\count368
+\c@abspage=\count390
 Package zref Info: New property: abspage on input line 66.
 ) (c:/texlive/2022/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
 \mdf@templength=\skip106
-\c@mdf@globalstyle@cnt=\count369
+\c@mdf@globalstyle@cnt=\count391
 \mdf@skipabove@length=\skip107
 \mdf@skipbelow@length=\skip108
 \mdf@leftmargin@length=\skip109
@@ -889,189 +1081,7 @@ Package: needspace 2010/09/12 v1.3d reserve vertical space
 \mdf@subsubtitlebelowskip@length=\skip143
 \mdf@subsubtitleinneraboveskip@length=\skip144
 \mdf@subsubtitleinnerbelowskip@length=\skip145
- (c:/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks32
-\pgfutil@tempdima=\dimen293
-\pgfutil@tempdimb=\dimen294
- (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box71
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
-))
-Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
- (c:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/texlive/2022/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
- (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks33
-\pgfkeys@temptoks=\toks34
- (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks35
-))
-\pgf@x=\dimen295
-\pgf@y=\dimen296
-\pgf@xa=\dimen297
-\pgf@ya=\dimen298
-\pgf@xb=\dimen299
-\pgf@yb=\dimen300
-\pgf@xc=\dimen301
-\pgf@yc=\dimen302
-\pgf@xd=\dimen303
-\pgf@yd=\dimen304
-\w@pgf@writea=\write4
-\r@pgf@reada=\read2
-\c@pgf@counta=\count370
-\c@pgf@countb=\count371
-\c@pgf@countc=\count372
-\c@pgf@countd=\count373
-\t@pgf@toka=\toks36
-\t@pgf@tokb=\toks37
-\t@pgf@tokc=\toks38
-\pgf@sys@id@count=\count374
- (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
-)
-Driver file for pgf: pgfsys-xetex.def
- (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
-File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
- (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
-File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
- (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
-)
-\pgfsys@objnum=\count375
-))) (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count376
-\pgfsyssoftpath@bigbuffer@items=\count377
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
- (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen305
-\pgfmath@count=\count378
-\pgfmath@box=\box72
-\pgfmath@toks=\toks39
-\pgfmath@stack@operand=\toks40
-\pgfmath@stack@operation=\toks41
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count379
-)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen306
-\pgf@picmaxx=\dimen307
-\pgf@picminy=\dimen308
-\pgf@picmaxy=\dimen309
-\pgf@pathminx=\dimen310
-\pgf@pathmaxx=\dimen311
-\pgf@pathminy=\dimen312
-\pgf@pathmaxy=\dimen313
-\pgf@xx=\dimen314
-\pgf@xy=\dimen315
-\pgf@yx=\dimen316
-\pgf@yy=\dimen317
-\pgf@zx=\dimen318
-\pgf@zy=\dimen319
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen320
-\pgf@path@lasty=\dimen321
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen322
-\pgf@shorten@start@additional=\dimen323
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box73
-\pgf@hbox=\box74
-\pgf@layerbox@main=\box75
-\pgf@picture@serial@count=\count380
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen324
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen325
-\pgf@pt@y=\dimen326
-\pgf@pt@temp=\dimen327
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen328
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen329
-\pgf@sys@shading@range@num=\count381
-\pgf@shadingcount=\count382
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
- (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box76
-)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box77
-) (c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen330
-\pgf@nodesepend=\dimen331
-) (c:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
-)) (c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (c:/texlive/2022/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
- (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen332
-\pgffor@skip=\dimen333
-\pgffor@stack=\toks42
-\pgffor@toks=\toks43
-)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
- (c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count383
-\pgfplotmarksize=\dimen334
-)
-\tikz@lastx=\dimen335
-\tikz@lasty=\dimen336
-\tikz@lastxsaved=\dimen337
-\tikz@lastysaved=\dimen338
-\tikz@lastmovetox=\dimen339
-\tikz@lastmovetoy=\dimen340
-\tikzleveldistance=\dimen341
-\tikzsiblingdistance=\dimen342
-\tikz@figbox=\box78
-\tikz@figbox@bg=\box79
-\tikz@tempbox=\box80
-\tikz@tempbox@bg=\box81
-\tikztreelevel=\count384
-\tikznumberofchildren=\count385
-\tikznumberofcurrentchild=\count386
-\tikz@fig@count=\count387
- (c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count388
-\pgfmatrixcurrentcolumn=\count389
-\pgf@matrix@numberofcolumns=\count390
-)
-\tikz@expandcount=\count391
- (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (c:/texlive/2022/texmf-dist/tex/latex/mdframed/md-frame-1.mdf
+ (c:/texlive/2022/texmf-dist/tex/latex/mdframed/md-frame-1.mdf
 File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
 )
 \mdf@frametitlebox=\box82
@@ -1226,167 +1236,9 @@ LaTeX Info: Redefining \nameref on input line 15.
  [1
 
 ] (./1.Introduction/introduction.tex) (./2.Mathematical_model/mathematical_model.tex [2]) (./3.Discussion/discussion.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 2.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 2.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 2.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 2.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 4.
-
-) (./4.Results/results.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 3.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 3.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 3.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 3.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 5.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 5.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 5.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 5.
-
-) [3]
-Underfull \hbox (badness 1466) in paragraph at lines 52--53
-\TU/Arial(0)/m/n/12.05 Deep learning for cellular image analysis. Nature Methods, 16(12), 1233-1246.
+Overfull \hbox (4.04805pt too wide) in paragraph at lines 24--24
+ [][]\TU/Arial(0)/m/n/12.05 Deployment 
  []
-
-
-Underfull \hbox (badness 2012) in paragraph at lines 58--59
-[]\TU/Arial(0)/m/n/12.05 Nash, W., Drummond, T. & Birbilis, N. (2018). A review of deep learning in
- []
-
-[4] (./Example/Example.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 4.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 4.
-
-[5]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 21.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 21.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 21.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 21.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 23.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 23.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 23.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 23.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 23.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 23.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 23.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 23.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 25.
-See the caption package documentation for explanation.
 
 
 Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
@@ -1411,223 +1263,34 @@ Package fontspec Info: Font family 'SimSun(1)' created for font 'SimSun' with
 (fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-LaTeX Font Info:    Calculating math sizes for size <12.05> on input line 28.
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 28.
-(c:/texlive/2022/texmf-dist/tex/latex/txfonts/ot1txr.fd
-File: ot1txr.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for U+txsya on input line 28.
- (c:/texlive/2022/texmf-dist/tex/latex/txfonts/utxsya.fd
-File: utxsya.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for U+txsyb on input line 28.
- (c:/texlive/2022/texmf-dist/tex/latex/txfonts/utxsyb.fd
-File: utxsyb.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 28.
- (c:/texlive/2022/texmf-dist/tex/latex/txfonts/utxmia.fd
-File: utxmia.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 28.
- (c:/texlive/2022/texmf-dist/tex/latex/txfonts/utxsyc.fd
-File: utxsyc.fd 2000/12/15 v3.1
-)
+[3]) (./4.Results/results.tex
+File: gantt.jpg Graphic file (type bmp)
+<gantt.jpg>
+ [4])
+Underfull \hbox (badness 1466) in paragraph at lines 52--53
+\TU/Arial(0)/m/n/12.05 Deep learning for cellular image analysis. Nature Methods, 16(12), 1233-1246.
+ []
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 38.
+
+Underfull \hbox (badness 2012) in paragraph at lines 58--59
+[]\TU/Arial(0)/m/n/12.05 Nash, W., Drummond, T. & Birbilis, N. (2018). A review of deep learning in
+ []
+
+
+Package caption Warning: Unused \captionsetup[sub] on input line 7.
 See the caption package documentation for explanation.
 
-
-Overfull \hbox (26.33192pt too wide) in paragraph at lines 24--50
-[]$[]$ $[]$ 
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 51.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 51.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 51.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 51.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 51.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 51.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 51.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 51.
-
-[6]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 82.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 82.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 82.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 82.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 84.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 84.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 84.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 84.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 84.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 84.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 84.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 84.
-
-File: Example/figures/Steel50.jpg Graphic file (type bmp)
-<Example/figures/Steel50.jpg>
-File: Example/figures/Steel100.jpg Graphic file (type bmp)
-<Example/figures/Steel100.jpg>
-
-Overfull \hbox (28.45273pt too wide) in paragraph at lines 88--90
- [][][] 
- []
-
-File: Example/figures/150Steel.jpg Graphic file (type bmp)
-<Example/figures/150Steel.jpg>
-File: Example/figures/Al50.jpg Graphic file (type bmp)
-<Example/figures/Al50.jpg>
-
-Overfull \hbox (28.45273pt too wide) in paragraph at lines 92--94
- [][][] 
- []
-
-File: Example/figures/Al100.jpg Graphic file (type bmp)
-<Example/figures/Al100.jpg>
-File: Example/figures/Al150.jpg Graphic file (type bmp)
-<Example/figures/Al150.jpg>
-
-Overfull \hbox (28.45273pt too wide) in paragraph at lines 96--98
- [][][] 
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 102.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 102.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 102.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 102.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 102.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 102.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 102.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 102.
-
-File: Example/figures/result.png Graphic file (type bmp)
-<Example/figures/result.png>
-[7] [8]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 112.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 112.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 112.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 2.00876pt
-(hyperref)                removed on input line 112.
-
-) [9] (./English-essay.aux)
+[5] (./English-essay.aux)
 Package rerunfilecheck Info: File `English-essay.out' has not changed.
-(rerunfilecheck)             Checksum: 4F3307E27D078EF57F47ECAA09CE13A8;2788.
+(rerunfilecheck)             Checksum: 9839150099EE7070AA0084B7C02EC874;837.
  ) 
 Here is how much of TeX's memory you used:
- 34428 strings out of 478126
- 709877 string characters out of 5853226
- 1006922 words of memory out of 5000000
- 54357 multiletter control sequences out of 15000+600000
- 507279 words of font info for 189 fonts, out of 8000000 for 9000
+ 35035 strings out of 478126
+ 727042 string characters out of 5853226
+ 1038797 words of memory out of 5000000
+ 55000 multiletter control sequences out of 15000+600000
+ 473430 words of font info for 84 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 113i,12n,116p,792b,683s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,12n,111p,792b,884s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on English-essay.pdf (9 pages).
+Output written on English-essay.pdf (5 pages).

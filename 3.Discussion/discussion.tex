@@ -1,4 +1,108 @@
 \section{Preliminary Work}
-\subsection{Subsection 3.1}
 
-\subsection{Subsection 3.2}
+
+
+% \documentclass{standalone}
+% \usepackage{tikz}
+% \usepackage{arrows.meta}
+\subsection*{The Concept and Procedure of Deep Learning}
+\begin{figure}[h]
+    \centering
+\begin{tikzpicture}[node distance=3cm, auto]
+
+    % Define style for boxes
+    \tikzstyle{block} = [rectangle, draw, fill=blue!20, text width=5em, text centered, rounded corners, minimum height=4em]
+    
+    % Define style for line
+    \tikzstyle{line} = [draw, -{Latex[length=2mm]}]
+
+    % Place nodes
+    \node [block] (init) {Data Preparation};
+    \node [block, right of=init] (design) {Model Design};
+    \node [block, right of=design] (train) {Training};
+    \node [block, right of=train] (evaluate) {Evaluation};
+    \node [block, right of=evaluate] (deploy) {Deployment};
+
+    % Draw edges
+    \path [line] (init) -- (design);
+    \path [line] (design) -- (train);
+    \path [line] (train) -- (evaluate);
+    \path [line] (evaluate) -- (deploy);
+
+\end{tikzpicture}
+\caption{Deep Learning Procedure}
+\label{fig:deeplearning}
+\end{figure}
+
+
+\begin{itemize}
+\item \textbf{Data Collection Phase:} In material science, gather high-resolution images or sensor data in formats like JPG or TIFF. This data will be used to detect and analyze tool wear.
+\item \textbf{Data Processing Phase:} Employ OpenCV or similar image processing libraries to prepare your data. This could involve techniques like edge detection to highlight tool wear features, which is essential for accurate analysis.
+\item \textbf{Model Design Phase:} Understand the algorithms of mathematical, used in analyzing material degradation. This includes learning about convolutional operations that can detect patterns in the wear of tools. For example, the convolution operation in this context helps in identifying texture changes in materials.
+\item \textbf{Gain proficiency} in Python and libraries such as NumPy for data manipulation, PyTorch for building neural networks, and TensorFlow for scalable machine learning operations. These tools are essential for modeling complex wear patterns and predicting material lifespan.
+\item \textbf{Deployment Phase:} Optimize the trained model for real-world applications, which involve code translation into more efficient languages like C++ for real-time analysis. Also, integrate the model with a GUI using Qt to make the tool wear assessment technology accessible to engineers and technicians.
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
+% Deep learning is a subset of artificial intelligence that mimics the workings of the human brain in processing data, using neural networks to learn and extract valuable information from vast amounts of data.
+
+% The deep learning process can be broadly divided into the following stages:
+
+% \begin{itemize}
+%     \item \textbf{Data Preparation:} In this stage, we collect and clean the data to be used for model training.
+%     \item \textbf{Model Design:} Here, we design the architecture of the deep learning model, including the number of layers, the type of layers (convolutional, recurrent, etc.), and other parameters.
+%     \item \textbf{Training:} During this phase, we train the model using our prepared data. The model learns to make predictions or decisions based on the input data.
+%     \item \textbf{Evaluation:} After training, we evaluate the model's performance using a separate set of test data. This helps us understand how well the model will perform on unseen data.
+%     \item \textbf{Deployment:} Once we are satisfied with the model's performance, we deploy it to a production environment where it can start making predictions on real-world data.
+% \end{itemize}
+
+
+% \subsection*{Components of a Convolutional Neural Network}
+% \begin{figure}[h]
+%     \centering
+%     \begin{tikzpicture}[node distance=2.5cm, auto]
+%         % Define style for boxes
+%         \tikzstyle{block} = [rectangle, draw, fill=blue!20, text width=5em, text centered, rounded corners, minimum height=3em]
+%         \tikzstyle{line} = [draw, -{Latex[length=2mm]}]
+
+%         % Place nodes
+%         \node [block] (input) {Input Layer};
+%         \node [block, right of=input] (conv1) {Conv Layer};
+%         \node [block, right of=conv1] (pool1) {Pooling Layer};
+%         \node [block, right of=pool1] (conv2) {Conv Layer};
+%         \node [block, right of=conv2] (pool2) {Pooling Layer};
+%         \node [block, right of=pool2] (fc) {Fully Connected Layer};
+%         \node [block, right of=fc] (output) {Output Layer};
+%         % Draw edges
+%         \path [line] (input) -- (conv1);
+%         \path [line] (conv1) -- (pool1);
+%         \path [line] (pool1) -- (conv2);
+%         \path [line] (conv2) -- (pool2);
+%         \path [line] (pool2) -- (fc);
+%         \path [line] (fc) -- (output);
+
+%     \end{tikzpicture}
+%     \caption{Convolutional Neural Network (CNN)}
+%     \label{fig:cnn}
+% \end{figure}
+
+
+% A Convolutional Neural Network typically consists of the following components:
+
+% \begin{itemize}
+%     \item \textbf{Input Layer:} This is where the network receives input from the dataset. For a CNN, the input is typically an image.
+%     \item \textbf{Conv Layer:} This is a convolutional layer that uses a set of learnable filters to create feature maps.
+%     \item \textbf{Pooling Layer:} This layer reduces the spatial size of the representation, reducing the amount of parameters and computation in the network.
+%     \item \textbf{Conv Layer:} Another convolutional layer for further feature extraction.
+%     \item \textbf{Pooling Layer:} Another pooling layer for further reduction of spatial size.
+%     \item \textbf{Fully Connected Layer:} This layer connects every neuron in the previous layer to every neuron in the next layer, interpreting the features extracted by the convolutional layers.
+%     \item \textbf{Output Layer:} This is the final layer that produces the network's output. The type of output depends on the task - for example, it could be a classification of the input image.
+% \end{itemize}
